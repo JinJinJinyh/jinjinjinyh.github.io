@@ -1,0 +1,7 @@
+{
+  "registry-mirrors": [
+    "https://docker.m.daocloud.io",
+    "https://registry.docker-cn.com",
+    "https://dockerhub.timeyum.com"
+  ]
+}

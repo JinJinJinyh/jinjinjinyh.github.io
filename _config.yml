@@ -1,0 +1,27 @@
+title: My Awesome Blog
+email: your-email@example.com
+description: >-
+  A personal blog created with Jekyll. Sharing thoughts, tutorials, and stories.
+baseurl: ""
+url: "https://jinjinjinyh.github.io"
+twitter_username: jekyllrb
+github_username: jinjinjinyh
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
